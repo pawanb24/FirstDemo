@@ -1,5 +1,8 @@
 public class HelloWorld {
 	public static void main(String args[]) {
-		System.out.println("My First GitHub File");
+		int firstNum = 10;
+		int secondNum = 20;
+		int answer = firstNum + secondNum;
+		System.out.println(answer);
 	}
 }
